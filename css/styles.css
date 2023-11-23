@@ -1,0 +1,10 @@
+/* archido de los estilos de la pagina.  se importa en el blogspot.html */
+body {
+    background-color: #f8f8f8;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
